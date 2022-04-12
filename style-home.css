@@ -29,6 +29,7 @@ p {
 	font-size: 20px
 }
 
+/* Todos os strongs que estão dentro de em */
 em strong {
 	color: #FF0000;
 }
@@ -38,7 +39,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFFFF
+	background: #FFFFFF
 	padding: 20px;
 }
 
